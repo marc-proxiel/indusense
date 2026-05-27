@@ -1,0 +1,14 @@
+artifact_uri: file:C:/indusense/mlruns/694001983120104073/5465e084b7bc4b2da4194feea1c68049/artifacts
+end_time: 1779889087642
+entry_point_name: ''
+experiment_id: '694001983120104073'
+lifecycle_stage: active
+run_id: 5465e084b7bc4b2da4194feea1c68049
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779889077643
+status: 3
+tags: []
+user_id: valeuxm

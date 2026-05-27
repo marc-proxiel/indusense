@@ -1,0 +1,22 @@
+artifact_path: file:C:/indusense/mlruns/694001983120104073/models/m-e2a366b9e03d482e8ccda9eabad56d1d/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.1
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.12.0
+model_id: m-e2a366b9e03d482e8ccda9eabad56d1d
+model_size_bytes: 1527884
+model_uuid: m-e2a366b9e03d482e8ccda9eabad56d1d
+prompts: null
+run_id: f6f023b4aa5f4769a58d23c8fad23a28
+utc_time_created: '2026-05-27 14:08:24.492590'

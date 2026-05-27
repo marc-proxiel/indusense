@@ -1,0 +1,14 @@
+artifact_uri: file:C:/indusense/mlruns/694001983120104073/56058ac3b95944048a26046b51bbb045/artifacts
+end_time: 1779887895703
+entry_point_name: ''
+experiment_id: '694001983120104073'
+lifecycle_stage: active
+run_id: 56058ac3b95944048a26046b51bbb045
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779887880051
+status: 3
+tags: []
+user_id: valeuxm

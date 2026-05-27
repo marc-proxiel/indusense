@@ -1,0 +1,23 @@
+artifact_path: file:C:/indusense/mlruns/694001983120104073/models/m-f72433ba292740dc9146ebd8bec75918/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-f72433ba292740dc9146ebd8bec75918
+model_size_bytes: 8874260
+model_uuid: m-f72433ba292740dc9146ebd8bec75918
+prompts: null
+run_id: b6ff55f4a41f4c7cbd0e32771743a53f
+utc_time_created: '2026-05-27 13:37:48.794479'
