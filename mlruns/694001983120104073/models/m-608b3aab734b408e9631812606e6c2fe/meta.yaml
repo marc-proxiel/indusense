@@ -1,0 +1,10 @@
+artifact_location: file:C:/indusense/mlruns/694001983120104073/models/m-608b3aab734b408e9631812606e6c2fe/artifacts
+creation_timestamp: 1779880388369
+experiment_id: '694001983120104073'
+last_updated_timestamp: 1779880396749
+model_id: m-608b3aab734b408e9631812606e6c2fe
+model_type: null
+name: model
+source_run_id: b59f1b4685aa43868a33d3feb3559500
+status: 2
+status_message: null

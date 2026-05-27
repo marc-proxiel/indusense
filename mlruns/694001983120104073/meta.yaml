@@ -1,0 +1,8 @@
+artifact_location: file:C:/indusense/mlruns/694001983120104073
+creation_time: 1779874298370
+experiment_id: '694001983120104073'
+last_update_time: 1779874298370
+lifecycle_stage: active
+name: indusense-failure-prediction
+trace_location: null
+workspace: default

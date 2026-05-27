@@ -1,0 +1,14 @@
+artifact_uri: file:C:/indusense/mlruns/694001983120104073/3cf4b861c2a9439db4b18990234f7452/artifacts
+end_time: 1779879172765
+entry_point_name: ''
+experiment_id: '694001983120104073'
+lifecycle_stage: active
+run_id: 3cf4b861c2a9439db4b18990234f7452
+run_name: XGBoost-tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779878785328
+status: 3
+tags: []
+user_id: valeuxm
