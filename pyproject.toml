@@ -18,3 +18,11 @@ dev = [
     "ipykernel>=7.2.0",
     "jupyter>=1.1.1",
 ]
+dl = [
+    "tensorflow>=2.21.0",
+    "albumentations>=2.0.0",
+    "opencv-python>=4.10.0",
+    "scikit-image>=0.25.0",
+    "pillow>=11.0.0",
+    "matplotlib>=3.10.0",
+]
