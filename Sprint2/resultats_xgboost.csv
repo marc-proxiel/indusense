@@ -1,0 +1,4 @@
+Modèle,TP,FN,FP,TN,% pannes détectées,% pannes manquées,Recall,Precision,F1-score,AUC-ROC,Accuracy
+XGB Optuna,3097,0,17042,6,100.0%,0.0%,1.0,0.1538,0.2666,0.568,0.154
+XGB RandomizedSearch,1438,1659,5761,11287,46.4%,53.6%,0.4643,0.1997,0.2793,0.5778,0.6317
+XGB baseline,767,2330,2279,14769,24.8%,75.2%,0.2477,0.2518,0.2497,0.5753,0.7712
